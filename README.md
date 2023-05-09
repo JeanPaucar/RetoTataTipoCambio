@@ -25,11 +25,11 @@ Plantilla de desarrollo con Spring Boot.
 
 **- Para generar imagen docker**
 
-    docker build -t tipocambio/demo .
+    docker build -t retoback .
 
 **- Para ejecutar docker**
 
-    docker run -p 8080:8080 tipocambio/demo:latest -d
+    docker run -p 8080:8080 retoback:latest -d
 
 ## Rutas al ejecutar
 
@@ -39,7 +39,7 @@ Plantilla de desarrollo con Spring Boot.
 
 **- Para repositorio**
 
-[Link GitHub]()
+[Link GitHub](https://github.com/JeanPaucar/RetoTataTipoCambio)
 
 
-© 2023 Luigi Leon. All rights reserved
+© 2023 Jean Paucar. All rights reserved
